@@ -56,5 +56,5 @@ Route::resource('hari', HariController::class);
 Route::resource('pengumuman', PengumumanController::class);
 Route::get('cetak_pengumuman', [PengumumanController::class, 'cetak_pengumuman'])->name('cetak_pengumuman');
 
-//ferynand46
-//ferynand46@gmail.com
+// git config --global user.name "ferynand46"
+// git config --global user.email ferynand46@gmail.com

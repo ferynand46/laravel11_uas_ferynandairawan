@@ -15,3 +15,5 @@ class Guru extends Model
     public $timestamps = true;
 
 }
+
+
