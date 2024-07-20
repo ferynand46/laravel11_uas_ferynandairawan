@@ -2,7 +2,7 @@
 @section('content')
 
 <h1>Master Hari</h1>
-<a href="">Tambah Data</a>
+ 
 <div class="card">
     <div class="card-header">
         <a href="{{ route('hari.create') }}" class="btn btn-success btn-sm">Tambah Data</a>
