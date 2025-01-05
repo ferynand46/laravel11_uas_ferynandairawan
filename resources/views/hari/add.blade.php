@@ -5,7 +5,7 @@
     @csrf
     <table>
         <tr>
-            <td>Nama Hari</td><td><input type="text" name="NamaHari"></td>
+            <td>Nama Hari </td><td><input type="text" name="NamaHari"></td>
         </tr>
         
         <tr>
